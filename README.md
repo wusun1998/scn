@@ -1,0 +1,2 @@
+# scn
+stochastic configuaration network
